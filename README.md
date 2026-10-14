@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Ganesh-2006/Leetcode_DSA/tree/master/0213-house-robber-ii) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ganesh-2006/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ganesh-2006/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
